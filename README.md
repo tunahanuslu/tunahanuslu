@@ -50,7 +50,7 @@
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tunahanuslu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  [![Yusuf GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=tunahanuslu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/tunahanuslu)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tunahanuslu&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
