@@ -6,7 +6,7 @@
   <p>
     <a href="mailto:tunahanuslu168@gmail.com"><img src="https://img.shields.io/badge/Email-tunahanuslu168%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://linkedin.com/in/tunahanuslu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <img src="https://img.shields.io/badge/Location-Istanbul%2C%20Turkey-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+    <a href="https://orcid.org/0009-0007-9736-4570"><img src="https://img.shields.io/badge/ORCID-0009--0007--9736--4570-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a> <img src="https://img.shields.io/badge/Location-Istanbul%2C%20Turkey-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
   </p>
 </div>
 
