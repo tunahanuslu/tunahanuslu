@@ -51,12 +51,12 @@
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.workers.dev/api?username=tunahanuslu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Yusuf Tunahan Uslu Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=tunahanuslu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Yusuf Tunahan Uslu Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tunahanuslu&theme=tokyonight&hide_border=true" width="48%" alt="Yusuf Tunahan Uslu Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.workers.dev/api/top-langs/?username=tunahanuslu&layout=compact&theme=tokyonight&hide_border=true" width="52%" alt="Yusuf Tunahan Uslu Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tunahanuslu&layout=compact&theme=tokyonight&hide_border=true" width="52%" alt="Yusuf Tunahan Uslu Top Languages" />
 </p>
 
 ---
