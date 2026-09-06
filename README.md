@@ -6,7 +6,8 @@
   <p>
     <a href="mailto:tunahanuslu168@gmail.com"><img src="https://img.shields.io/badge/Email-tunahanuslu168%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://linkedin.com/in/tunahanuslu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://orcid.org/0009-0007-9736-4570"><img src="https://img.shields.io/badge/ORCID-0009--0007--9736--4570-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a> <img src="https://img.shields.io/badge/Location-Istanbul%2C%20Turkey-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+    <a href="https://orcid.org/0009-0007-9736-4570"><img src="https://img.shields.io/badge/ORCID-0009--0007--9736--4570-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+    <img src="https://img.shields.io/badge/Location-Istanbul%2C%20Turkey-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
   </p>
 </div>
 
@@ -49,14 +50,14 @@
 
 ### 📊 GitHub Activity & Statistics
 
-<div align="center">
-  [![Yusuf GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=tunahanuslu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/tunahanuslu)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tunahanuslu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tunahanuslu&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</div>
+</p>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunahanuslu&layout=compact&theme=tokyonight&hide_border=true" width="55%" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunahanuslu&layout=compact&theme=tokyonight&hide_border=true" width="52%" alt="Top Languages" />
+</p>
 
 ---
 
